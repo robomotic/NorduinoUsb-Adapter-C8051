@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/newmsg/Netusb/!svn/ver/26/netusb24L01G/Bin
+END
+SLABHIDDevice.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/newmsg/Netusb/!svn/ver/24/netusb24L01G/Bin/SLABHIDDevice.dll
+END
+NetUsbDemo4VC6.exe
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/newmsg/Netusb/!svn/ver/26/netusb24L01G/Bin/NetUsbDemo4VC6.exe
+END
+Test-avr.hex
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/newmsg/Netusb/!svn/ver/25/netusb24L01G/Bin/Test-avr.hex
+END
+Netusb.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/newmsg/Netusb/!svn/ver/24/netusb24L01G/Bin/Netusb.dll
+END
+Netusb24L01G.hex
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/newmsg/Netusb/!svn/ver/26/netusb24L01G/Bin/Netusb24L01G.hex
+END

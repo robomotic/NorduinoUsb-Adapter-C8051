@@ -1,0 +1,51 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: NetUsbDemo4VC6 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/NetUsbDemo4VC6.res" /d "NDEBUG" /d "_AFXDLL" "D:\dev\NewMSG5\ATMEL\NetUSB\NetUSB-24L01G\Netusb24L01G\NetUsbDemo4VC6\NetUsbDemo4VC6.rc"" 
+Creating temporary file "C:\DOCUME~1\IMISSW~1\LOCALS~1\Temp\RSPDA.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Release/" /Fp"Release/NetUsbDemo4VC6.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\dev\NewMSG5\ATMEL\NetUSB\NetUSB-24L01G\Netusb24L01G\NetUsbDemo4VC6\NetUsbDemo4VC6.cpp"
+"D:\dev\NewMSG5\ATMEL\NetUSB\NetUSB-24L01G\Netusb24L01G\NetUsbDemo4VC6\NetUsbDemo4VC6Dlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\IMISSW~1\LOCALS~1\Temp\RSPDA.tmp" 
+Creating temporary file "C:\DOCUME~1\IMISSW~1\LOCALS~1\Temp\RSPDB.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Release/" /Fp"Release/NetUsbDemo4VC6.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\dev\NewMSG5\ATMEL\NetUSB\NetUSB-24L01G\Netusb24L01G\NetUsbDemo4VC6\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\IMISSW~1\LOCALS~1\Temp\RSPDB.tmp" 
+Creating temporary file "C:\DOCUME~1\IMISSW~1\LOCALS~1\Temp\RSPDC.tmp" with contents
+[
+Netusb.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/NetUsbDemo4VC6.pdb" /machine:I386 /out:"Release/NetUsbDemo4VC6.exe" 
+".\Release\NetUsbDemo4VC6.obj"
+".\Release\NetUsbDemo4VC6Dlg.obj"
+".\Release\StdAfx.obj"
+".\Release\NetUsbDemo4VC6.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\IMISSW~1\LOCALS~1\Temp\RSPDC.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+NetUsbDemo4VC6.cpp
+NetUsbDemo4VC6Dlg.cpp
+Generating Code...
+Linking...
+Creating command line "bscmake.exe /nologo /o"Release/NetUsbDemo4VC6.bsc"  ".\Release\StdAfx.sbr" ".\Release\NetUsbDemo4VC6.sbr" ".\Release\NetUsbDemo4VC6Dlg.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+NetUsbDemo4VC6.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

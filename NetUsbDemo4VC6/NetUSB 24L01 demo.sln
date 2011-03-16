@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetUsbDemo4VC6", "NetUsbDemo4VC6.vcxproj", "{E121B4CA-3D49-7DD3-9778-8CBD655A9718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E121B4CA-3D49-7DD3-9778-8CBD655A9718}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E121B4CA-3D49-7DD3-9778-8CBD655A9718}.Debug|Win32.Build.0 = Debug|Win32
+		{E121B4CA-3D49-7DD3-9778-8CBD655A9718}.Release|Win32.ActiveCfg = Release|Win32
+		{E121B4CA-3D49-7DD3-9778-8CBD655A9718}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
